@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = shigeru1985@gmail.com
+	name = Shigeru Nakayama
